@@ -48,6 +48,8 @@ privacy.html    plain-language privacy page
 terms.html      plain-language terms
 og.png          1200x630 social card
 llms.txt        agent-readable summary
+llms-full.txt   full profile and evidence for agents
+.well-known/security.txt  vulnerability contact
 AGENTS.md       instructions for coding agents
 ```
 
@@ -70,13 +72,14 @@ The scan is public and repeatable: [A+ 100/100, dated 24 October 2026](samples/h
 
 ## Editing availability
 
-Availability lives in three places and they must agree:
+Availability lives in four places and they must agree:
 
 1. The `#availability` section and `seeks` field in `index.html`.
 2. The availability line in `llms.txt`.
-3. The Person JSON-LD `seeks` description in `index.html`.
+3. The availability section in `llms-full.txt`.
+4. The Person JSON-LD `seeks` description in `index.html`.
 
-Change all three when the answer changes. Do not add a location, visa status or salary expectation without a direct confirmation from Meet.
+Change all four when the answer changes. Do not add a location, visa status or salary expectation without a direct confirmation from Meet.
 
 ## Deploy
 

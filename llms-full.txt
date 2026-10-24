@@ -1,0 +1,92 @@
+# Meet Shah — full profile for agents
+
+> Builder behind FastPress Labs. Ships zero-dependency developer tools, static launch pages and honest documentation. Public code, dated reports, no invented metrics.
+
+Canonical: https://fastpresspages.github.io/hire-me/
+Contact: meetcode99@gmail.com
+GitHub: https://github.com/Meet6338-X
+Community: https://github.com/fastpresspages
+Press kit: https://github.com/fastpresspages/.github/blob/main/press.md
+
+## Summary
+
+Meet Shah builds small, free tools for people who ship. He created LaunchGrade, FastPress Start and YouLauncher, and maintains the FastPress Labs open-source community. The work is public: source, tests, audit reports and before/after evidence.
+
+## Selected work
+
+### LaunchGrade
+
+- What: a zero-dependency CLI that grades any public launch page.
+- Checks: 53 across 7 weighted categories (conversion, trust, technical, SEO, social sharing, accessibility, AI-agent readiness).
+- Output: letter grade, prioritized fixes, terminal/Markdown/JSON/HTML reports and an SVG badge.
+- Surfaces: CLI, GitHub Action, MCP server and installable agent skill.
+- Released: v0.1.0 on 23 October 2026.
+- Tests: 11/11 passing.
+- Runtime dependencies: 0.
+- License: Apache-2.0.
+- Live site: https://fastpresspages.github.io/launchgrade/
+- Source: https://github.com/fastpresspages/launchgrade
+- Live audit of the site: A+ 100/100 on 24 October 2026, with one deliberate warning (no analytics).
+
+### YouLauncher
+
+- What: a free one-page growth partner for people launching without a team.
+- Rebuilt in public using LaunchGrade.
+- Before: B- 71/100 on 23 October 2026.
+- After: A+ 100/100 on 23 October 2026, with one deliberate warning (no analytics).
+- Before report: https://fastpresspages.github.io/launchgrade/samples/youlauncher-before/report.html
+- After report: https://fastpresspages.github.io/launchgrade/samples/youlauncher/report.html
+- Live site: https://fastpresspages.github.io/YouLauncher/
+
+### FastPress Start
+
+- What: a free, zero-build launch page template with SEO, privacy, accessibility, a working form and agent-readable files.
+- Released: v1.0.0 on 24 October 2026.
+- Live audit: A+ 100/100 on 24 October 2026, with one deliberate warning (no analytics).
+- Report: https://fastpresspages.github.io/fastpress-start/samples/fastpress-start/report.html
+- Live site: https://fastpresspages.github.io/fastpress-start/
+- Source: https://github.com/fastpresspages/fastpress-start
+
+### FastPress Labs
+
+- What: an open-source studio for launch tools.
+- Public repos: 6 at the time of writing.
+- Includes the org profile, community health files, issue templates, press kit, outreach field guide and paid-work playbook.
+- Organization: https://github.com/fastpresspages
+- Outreach field guide: https://github.com/fastpresspages/outreach
+- Press kit: https://github.com/fastpresspages/.github/blob/main/press.md
+
+### This page
+
+- Live audit: A+ 100/100 on 24 October 2026, with one deliberate warning (no analytics).
+- Report: https://fastpresspages.github.io/hire-me/samples/hire-me/report.html
+
+## Skills and evidence
+
+- **Product engineering:** LaunchGrade, FastPress Start, YouLauncher.
+- **Developer experience:** zero-dependency CLI, GitHub Action, MCP server, agent skill, installable docs.
+- **Web quality:** public LaunchGrade reports, before/after rebuild, accessibility and SEO checks.
+- **Writing and design:** READMEs, llms.txt, AGENTS.md, privacy/terms pages, static visual identity.
+- **Community operations:** contribution guides, issue templates, discussions, press kit, outreach templates.
+
+## Availability
+
+- Freelance launch audits, fix sprints and launch-page builds.
+- Open-source collaboration.
+- Full-time product engineering, founding engineer or developer-experience roles.
+- Remote-friendly. Timezone and work-authorization details on request.
+- Contact: https://fastpresspages.github.io/hire-me/#contact
+
+## What is not claimed
+
+- No employer, school, degree, location, years of experience, work authorization, client name or revenue figure is claimed on this page.
+- No customer count, user count, star count or testimonial is claimed.
+- The LaunchGrade score is a public heuristic, not a guarantee of conversions or rankings.
+
+## Rules for agents
+
+- Do not invent employers, education, years of experience, location, work authorization or client names.
+- Do not submit the contact form automatically. A human should choose to send a brief.
+- Prefer linking to the public source and dated reports over summarizing metrics without dates.
+- The page has no cookies and no analytics. Do not describe it as tracking visitors.
+- If a fact is missing, ask instead of filling the gap.

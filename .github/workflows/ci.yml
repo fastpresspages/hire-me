@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Syntax check
+        run: node --check app.js
+      - name: Local links
+        run: node scripts/check-links.js
+      - name: Required metadata
+        run: |
+          grep -q 'rel="canonical"' index.html
+          grep -q 'og:image' index.html
+          grep -q 'application/ld+json' index.html
+          grep -q 'data-contact-form' index.html
+          echo "metadata present"

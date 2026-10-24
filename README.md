@@ -13,6 +13,7 @@ A zero-build, single-page portfolio for the builder behind [FastPress Labs](http
 [![No build](https://img.shields.io/badge/build-none-08080A.svg)](#stack)
 [![Dependencies](https://img.shields.io/badge/runtime_deps-0-C6FF4A.svg)](#stack)
 [![Honest metrics](https://img.shields.io/badge/invented_metrics-0-FFB020.svg)](AGENTS.md)
+[![LaunchGrade](https://img.shields.io/badge/LaunchGrade-A%2B%20100%2F100-3DDC84.svg)](samples/hire-me/report.html)
 [![License](https://img.shields.io/badge/license-Apache--2.0-C6FF4A.svg)](LICENSE)
 
 [Live page](https://fastpresspages.github.io/hire-me/) · [LaunchGrade](https://fastpresspages.github.io/launchgrade/) · [FastPress Labs](https://github.com/fastpresspages) · [Email](mailto:meetcode99@gmail.com)
@@ -65,7 +66,7 @@ The contact form refuses to send from `file://`; use the local server or the liv
 npx -p github:fastpresspages/launchgrade launchgrade https://fastpresspages.github.io/hire-me/
 ```
 
-The scan is public and repeatable. If it drops below an A, open an issue with the report.
+The scan is public and repeatable: [A+ 100/100, dated 24 October 2026](samples/hire-me/report.html), with one deliberate warning (no analytics). If it drops below an A, open an issue with the report.
 
 ## Editing availability
 

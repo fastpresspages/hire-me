@@ -21,6 +21,7 @@ Community: https://github.com/fastpresspages
 - YouLauncher: rebuilt in public; LaunchGrade score moved from B- 71/100 to A+ 100/100, with one deliberate warning (no analytics).
 - FastPress Labs: 3 public repos at the time of writing; org profile, community health files and issue templates are public.
 - The before and after reports are dated 23 October 2026 and linked from the page.
+- This page's own LaunchGrade audit: A+ 100/100, 24 October 2026, one deliberate warning (no analytics). Report: https://fastpresspages.github.io/hire-me/samples/hire-me/report.html
 
 ## Rules for agents
 

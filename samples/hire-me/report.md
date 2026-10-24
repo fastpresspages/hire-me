@@ -3,19 +3,19 @@
 > **A+ · 100/100 — Launch-ready**
 >
 > `https://fastpresspages.github.io/hire-me/`  
-> Scanned Sat, 24 Oct 2026 04:12:42 GMT · 104 ms · 21 KB HTML
+> Scanned Sat, 24 Oct 2026 04:40:36 GMT · 828 ms · 21 KB HTML
 
-**47 pass · 1 warn · 0 fail · 5 info**
+**49 pass · 1 warn · 0 fail · 3 info**
 
 | Category | Score | Weight | Status |
 | --- | ---: | ---: | --- |
 | Conversion | 100/100 | 25% | 7✓ 0! 0× |
-| Trust | 100/100 | 15% | 5✓ 0! 0× |
+| Trust | 100/100 | 15% | 6✓ 0! 0× |
 | Technical | 98/100 | 20% | 11✓ 1! 0× |
 | SEO | 100/100 | 15% | 9✓ 0! 0× |
 | Social sharing | 100/100 | 10% | 3✓ 0! 0× |
 | Accessibility | 100/100 | 5% | 6✓ 0! 0× |
-| AI-agent readiness | 100/100 | 10% | 6✓ 0! 0× |
+| AI-agent readiness | 100/100 | 10% | 7✓ 0! 0× |
 
 ## Fix these first
 
@@ -42,14 +42,14 @@
 - ✅ **Links terms of service** — Terms link found.
 - ✅ **Explains who is behind the page** — About/team link found (“About”).
 - ✅ **Links a real social profile** — Social profile linked (github.com).
-- ℹ️ **Publishes a security contact** — No /.well-known/security.txt (optional for launch pages).
+- ✅ **Publishes a security contact** — security.txt is published with a contact.
 - ✅ **Shows a current footer** — Footer copyright is current (2026).
 
 ### Technical
 
 - ✅ **Serves over HTTPS** — Final URL is HTTPS.
 - ✅ **Returns a healthy status** — Page returned HTTP 200.
-- ✅ **Loads the HTML quickly** — HTML arrived in 104 ms.
+- ✅ **Loads the HTML quickly** — HTML arrived in 828 ms.
 - ✅ **Compresses the response** — Content-Encoding: gzip.
 - ✅ **Sets cache headers** — Cache-Control: max-age=600.
 - ✅ **Is mobile-ready** — Responsive viewport is configured.
@@ -71,7 +71,7 @@
 - ✅ **Publishes a sitemap** — sitemap.xml is valid XML.
 - ✅ **Publishes robots.txt** — robots.txt is published.
 - ✅ **Adds structured data** — JSON-LD found: Person, FAQPage.
-- ✅ **Links its own pages** — 11 internal links found.
+- ✅ **Links its own pages** — 12 internal links found.
 - ✅ **Has readable copy in the HTML** — 28.3% of the HTML is readable text.
 
 ### Social sharing
@@ -92,14 +92,14 @@
 ### AI-agent readiness
 
 - ✅ **Publishes llms.txt** — llms.txt is published with a title and content.
-- ℹ️ **Offers a full-context file** — No llms-full.txt (optional).
+- ✅ **Offers a full-context file** — llms-full.txt is available (5 KB).
 - ✅ **Lets AI crawlers in** — All 6 major AI/search crawlers are allowed.
 - ✅ **Speaks to coding agents** — AGENTS.md is published.
 - ℹ️ **Serves markdown to agents** — No markdown alternate or content negotiation.
 - ℹ️ **Exposes a machine-readable API** — No MCP/OpenAPI descriptor (only needed if agents can act on your product).
 - ✅ **Answers buying questions** — FAQPage structured data is present.
 - ✅ **Uses semantic HTML** — Semantic main/article/nav structure found.
-- ✅ **Works without JavaScript** — 6081 characters of copy are in the HTML.
+- ✅ **Works without JavaScript** — 6094 characters of copy are in the HTML.
 
 </details>
 

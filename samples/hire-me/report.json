@@ -1,20 +1,20 @@
 {
   "tool": "launchgrade",
   "version": "0.1.0",
-  "generatedAt": "2026-10-24T04:12:42.506Z",
+  "generatedAt": "2026-10-24T04:40:36.199Z",
   "url": "https://fastpresspages.github.io/hire-me/",
   "requestedUrl": "https://fastpresspages.github.io/hire-me/",
   "httpStatus": 200,
-  "responseMs": 104,
-  "htmlBytes": 21494,
+  "responseMs": 828,
+  "htmlBytes": 21555,
   "grade": "A+",
   "score": 100,
   "label": "Launch-ready",
   "counts": {
-    "pass": 47,
+    "pass": 49,
     "warn": 1,
     "fail": 0,
-    "info": 5,
+    "info": 3,
     "error": 0,
     "skipped": 0,
     "total": 53
@@ -39,7 +39,7 @@
       "score": 100,
       "weight": 15,
       "counts": {
-        "pass": 5,
+        "pass": 6,
         "warn": 0,
         "fail": 0
       }
@@ -99,7 +99,7 @@
       "score": 100,
       "weight": 10,
       "counts": {
-        "pass": 6,
+        "pass": 7,
         "warn": 0,
         "fail": 0
       }
@@ -219,10 +219,10 @@
       "id": "trust.security-txt",
       "category": "trust",
       "title": "Publishes a security contact",
-      "status": "info",
+      "status": "pass",
       "weight": 1,
-      "detail": "No /.well-known/security.txt (optional for launch pages).",
-      "fix": "Add one when you start handling accounts or payments."
+      "detail": "security.txt is published with a contact.",
+      "fix": ""
     },
     {
       "id": "trust.copyright",
@@ -257,7 +257,7 @@
       "title": "Loads the HTML quickly",
       "status": "pass",
       "weight": 2,
-      "detail": "HTML arrived in 104 ms.",
+      "detail": "HTML arrived in 828 ms.",
       "fix": ""
     },
     {
@@ -419,7 +419,7 @@
       "title": "Links its own pages",
       "status": "pass",
       "weight": 1,
-      "detail": "11 internal links found.",
+      "detail": "12 internal links found.",
       "fix": ""
     },
     {
@@ -525,10 +525,10 @@
       "id": "agent.llms-full",
       "category": "agent",
       "title": "Offers a full-context file",
-      "status": "info",
+      "status": "pass",
       "weight": 1,
-      "detail": "No llms-full.txt (optional).",
-      "fix": "Add the long-form version if agents need your docs in one request."
+      "detail": "llms-full.txt is available (5 KB).",
+      "fix": ""
     },
     {
       "id": "agent.robots-ai",
@@ -590,7 +590,7 @@
       "title": "Works without JavaScript",
       "status": "pass",
       "weight": 2,
-      "detail": "6081 characters of copy are in the HTML.",
+      "detail": "6094 characters of copy are in the HTML.",
       "fix": ""
     }
   ]
